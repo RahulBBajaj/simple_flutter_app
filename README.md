@@ -7,7 +7,7 @@ This is a basic Flutter application that demonstrates navigation between two scr
 To run this Flutter app, you need to have Flutter and Dart installed on your system. Go to the official Flutter installation guide for your platform
 
 ### Clone the repository:
-git clone https://github.com/your/repository.git
+git clone https://github.com/RahulBBajaj/simple_flutter_app.git
 
 ### Navigate to the project directory:
 cd your_project_directory
