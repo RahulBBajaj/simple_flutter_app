@@ -9,9 +9,6 @@ To run this Flutter app, you need to have Flutter and Dart installed on your sys
 ### Clone the repository:
 git clone https://github.com/RahulBBajaj/simple_flutter_app.git
 
-### Navigate to the project directory:
-cd your_project_directory
-
 ### Run the app:
 flutter run
 
@@ -25,7 +22,7 @@ This is the entry point of the app. It initializes the MyApp widget and sets up 
 The FirstScreen widget represents the initial screen of the app. It contains a simple button that, when pressed, navigates the user to the SecondScreen.
 
 3. second_screen.dart
-The SecondScreen widget is a StatefulWidget containing a form with two text fields for entering the user's name and email. The form includes validation logic, and upon successful validation, it prints the entered values to the console.
+The SecondScreen widget is a StatefulWidget containing a form with two text fields for entering the user's name and email. The form includes validation logic, and upon successful validation, it will successfully submit the form.
 
 ## Dependencies
 The app doesn't have any external dependencies other than the Flutter framework itself.
