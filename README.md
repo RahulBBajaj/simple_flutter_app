@@ -1,6 +1,6 @@
 # simple_flutter_app
 
-A new Flutter project.
+This is a basic Flutter application that demonstrates navigation between two screens and includes a simple form on the second screen for collecting user information.
 
 ## Getting Started
 
