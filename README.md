@@ -4,16 +4,16 @@ This is a basic Flutter application that demonstrates navigation between two scr
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this Flutter app, you need to have Flutter and Dart installed on your system. Follow the official Flutter installation guide for your platform: Flutter Installation Guide
 
-A few resources to get you started if this is your first Flutter project:
+### Clone the repository:
+git clone https://github.com/your/repository.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Navigate to the project directory:
+cd your_project_directory
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Run the app:
+flutter run
 
 ## App Structure
 The app consists of three main components:
